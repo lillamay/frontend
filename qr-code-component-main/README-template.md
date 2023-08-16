@@ -13,9 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://lillamay.github.io/frontend/qr-code-component-main/](https://your-solution-url.com)
+- Solution URL: [https://lillamay.github.io/frontend/qr-code-component-main/](https://lillamay.github.io/frontend/qr-code-component-main/)
 
 ## My process
 
@@ -34,8 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
