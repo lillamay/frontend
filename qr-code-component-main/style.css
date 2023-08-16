@@ -5,7 +5,7 @@ body{
 }
 
 .component {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Outfit', sans-serif;
     display: flex;
     flex: 1;
     flex-direction: column;
