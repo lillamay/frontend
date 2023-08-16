@@ -1,8 +1,47 @@
-body {
-    font-family: 'Courier New', Courier, monospace;
+body{
     display: flex;
     flex-direction: column;
-    width: 300px;
-    padding: 18px;
-    justify-content: center;
+    background-color: hsl(212, 45%, 89%) ;
 }
+
+.component {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 336px;
+    padding: 18px 18px 48px;
+    margin: auto;
+    background-color: #ffffff;
+    gap: 24px;
+}
+
+img, .component {
+    border-radius: 25px;
+}
+
+img {
+    width: 336px;
+}
+
+.titre {
+    font-weight: 700;
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+}
+
+.texte {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+.titre, .texte {
+    text-align: center;
+}
+
+.attribution {
+    align-self: flex-end;
+}
+
